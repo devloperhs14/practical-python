@@ -1,2 +1,2 @@
 # practical-python
-A practical approach to python teaching
+A practical approach to python learning
